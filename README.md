@@ -1,10 +1,4 @@
 ### Hi there 👋
-I'm a computer science enthusiast and huge fan of *The Internet*. My ability to learn and focus is somewhat limited due to a brain injury, but I try my best to aspire toward adeptness.
-
-Technologies I'm interested in and have some level of dev experience with include: **vue/nuxt**, **nodejs**, **android**, **ethereum/smart contracts**, **firebase**, **electron**, **AWS**, **python scripting**, and more. 
-
-I'm always open to any sort of collaboration or odd jobs if the price is right or the cause is worth the time and effort. Pronouns are he/him but feel free to use whatever else if you want. 
-<!--
 **schbz/schbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
