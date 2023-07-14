@@ -1,10 +1,4 @@
-
-With zeal, I craft web and mobile spheres,
-My tale of skill spans many a year.
-In collaboration and freelance I strive,
-Many active repos concealed from sight.
-
-Forgive me if follow backs are few,
-For bustling days dictate what I do.
-Though time is scarce, your presence I cheer,
-As we navigate this digital frontier.
+* Web and mobile dev with many years of experience.
+* Always open to freelancing and collaboration.
+* Currently using this account to share a few front-end projects and backup private project repositories.
+* Follows are greatly appreciated. If I don't reciprocate, it is due to the abundance of bot accounts here. 
